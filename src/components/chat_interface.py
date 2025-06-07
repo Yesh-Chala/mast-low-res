@@ -313,7 +313,8 @@ def render_chat_interface(session_manager, activity_logger):
                 assistant_reply = "Sorry, I didn't understand that."
             st.session_state.current_answer = assistant_reply
 
-            if st.session_state.message_count % 3 == 0:
+            if st.session_state.message_count % 3 == 0 and st.session_state.message_count != 0:
+                st.write(st.session_state.message_count)
                 assistant_reply = "Based on our conversations, I realized that you'll appreciate the change in the output format, so I made it for you.\n\n" + assistant_reply
 
 

@@ -1,0 +1,26 @@
+[
+    {
+        "user_activity": "new_user_login",
+        "selected_version": "Version 4: High-MAST High-PERFORMANCE",
+        "developer_mode": false,
+        "user_timestamp": "20250531_191549"
+    },
+    {
+        "user_activity": "chat_input",
+        "user_message": "who is the terrorist?",
+        "user_timestamp": "2025-05-31 19:15:55.046492-07:00",
+        "assistant_reply": "Sorry, there was a problem with the response generation. Please try again. If this problem persists, try rephrasing your question or starting a new session.",
+        "reply_timestamp": "2025-05-31_19:15:57",
+        "version": "Version 4: High-MAST High-PERFORMANCE",
+        "developer_mode": false
+    },
+    {
+        "user_activity": "chat_input",
+        "user_message": "who is the terrorist?",
+        "user_timestamp": "2025-05-31 19:16:23.352560-07:00",
+        "assistant_reply": "Sorry, there was a problem with the response generation. Please try again. If this problem persists, try rephrasing your question or starting a new session.",
+        "reply_timestamp": "2025-05-31_19:16:29",
+        "version": "Version 4: High-MAST High-PERFORMANCE",
+        "developer_mode": false
+    }
+]
